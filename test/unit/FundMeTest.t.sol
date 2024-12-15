@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 
-import {FundMe} from "../src/FundMe.sol";
-import {DeployFundMe} from "../script/DeployFundMe.s.sol";
+import {FundMe} from "../../src/FundMe.sol";
+import {DeployFundMe} from "../../script/DeployFundMe.s.sol";
 import {Test} from "forge-std/Test.sol";
 
 pragma solidity ^0.8.26;
