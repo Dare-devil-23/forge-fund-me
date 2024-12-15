@@ -2,7 +2,7 @@
 cache/
 out/
 
-lib/
+lib
 
 # Ignores development broadcast logs
 !/broadcast
@@ -14,3 +14,6 @@ docs/
 
 # Dotenv file
 .env
+
+sahith
+sahith.pub
